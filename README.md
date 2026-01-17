@@ -7,7 +7,7 @@ en appliquant les principes fondamentaux de la cryptographie.
 Garantir la confidentialité et la sécurité des fichiers échangés entre utilisateurs
 grâce à des mécanismes de chiffrement robustes.
 
-## 🛡️ Fonctionnalités
+## Fonctionnalités
 - Chiffrement des données avant partage
 - Gestion sécurisée des clés
 - Protection contre l’accès non autorisé
